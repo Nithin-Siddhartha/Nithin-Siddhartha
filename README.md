@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Nithin Siddhartha 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&width=435&lines=Passionate+Developer;CS+Graduate%7CProject+Builder;Full-Stack+Developer+%7C+Backend+Focused;Machine+Learning+Explorer;Always+Learning+%26+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00BFFF&center=true&width=435&lines=Passionate+Developer;CS+Graduate%20%7C%20Project+Builder;
+    Full-Stack+Developer;Data+Science+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </p>
-
 
 ---
 
