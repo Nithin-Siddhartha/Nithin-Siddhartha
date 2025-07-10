@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm Nithin Siddhartha 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00BFFF&center=true&width=435&lines=Fresher;Full-Stack+Developer;Data+Science+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&width=435&lines=Passionate+Developer;CS Graduate|Project Builder;Full-Stack+Developer+%7C+Backend+Focused;Machine+Learning+Explorer;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-🎓 I'm a passionate and disciplined developer, focused on building impactful software solutions with clean architecture and scalable systems.
+🎓 I'm a passionate and motivated fresher, actively building real-world projects and mastering full-stack and machine learning development.
 
 💡 I specialize in **backend systems, full-stack applications, data pipelines, and AI/ML integration** for real-world use cases.
 
